@@ -12,7 +12,7 @@ jobs:
         projectPath:
           - .
         unityVersion:
-          - auto
+          - 2023.2.4f1
         targetPlatform:
           - StandaloneLinux64 # Build a Linux 64-bit standalone.
           - iOS # Build an iOS player.
