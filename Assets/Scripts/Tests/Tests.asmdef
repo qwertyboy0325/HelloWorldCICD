@@ -7,14 +7,7 @@
     ],
     "includePlatforms": [],
     "excludePlatforms": [
-        "Android",
-        "Editor",
-        "EmbeddedLinux",
-        "iOS",
-        "WSA",
-        "WebGL",
-        "WindowsStandalone32",
-        "WindowsStandalone64"
+        "Android"
     ],
     "allowUnsafeCode": false,
     "overrideReferences": true,
