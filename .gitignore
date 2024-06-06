@@ -377,6 +377,10 @@ paket-files/
 __pycache__/
 *.pyc
 
+# Ignore temporaries from GameCI
+/[Aa]rtifacts/
+/[Cc]odeCoverage/
+
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
